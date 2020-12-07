@@ -1,0 +1,13 @@
+C:\Users\Jason\OneDrive\Documents\PalisadeMirandaV2\PalisadeBackend\PalisadeMirandaV2\Palisade.Interface\bin\Debug\netcoreapp3.1\Palisade.Interface.deps.json
+C:\Users\Jason\OneDrive\Documents\PalisadeMirandaV2\PalisadeBackend\PalisadeMirandaV2\Palisade.Interface\bin\Debug\netcoreapp3.1\Palisade.Interface.dll
+C:\Users\Jason\OneDrive\Documents\PalisadeMirandaV2\PalisadeBackend\PalisadeMirandaV2\Palisade.Interface\bin\Debug\netcoreapp3.1\Palisade.Interface.pdb
+C:\Users\Jason\OneDrive\Documents\PalisadeMirandaV2\PalisadeBackend\PalisadeMirandaV2\Palisade.Interface\obj\Debug\netcoreapp3.1\Palisade.Interface.csprojAssemblyReference.cache
+C:\Users\Jason\OneDrive\Documents\PalisadeMirandaV2\PalisadeBackend\PalisadeMirandaV2\Palisade.Interface\obj\Debug\netcoreapp3.1\Palisade.Interface.AssemblyInfoInputs.cache
+C:\Users\Jason\OneDrive\Documents\PalisadeMirandaV2\PalisadeBackend\PalisadeMirandaV2\Palisade.Interface\obj\Debug\netcoreapp3.1\Palisade.Interface.AssemblyInfo.cs
+C:\Users\Jason\OneDrive\Documents\PalisadeMirandaV2\PalisadeBackend\PalisadeMirandaV2\Palisade.Interface\obj\Debug\netcoreapp3.1\Palisade.Interface.dll
+C:\Users\Jason\OneDrive\Documents\PalisadeMirandaV2\PalisadeBackend\PalisadeMirandaV2\Palisade.Interface\obj\Debug\netcoreapp3.1\Palisade.Interface.pdb
+C:\Users\Jason\OneDrive\Documents\PalisadeMirandaV2\PalisadeBackend\PalisadeMirandaV2\Palisade.Interface\bin\Debug\netcoreapp3.1\Palisade.Interface.runtimeconfig.json
+C:\Users\Jason\OneDrive\Documents\PalisadeMirandaV2\PalisadeBackend\PalisadeMirandaV2\Palisade.Interface\bin\Debug\netcoreapp3.1\Palisade.Interface.runtimeconfig.dev.json
+C:\Users\Jason\OneDrive\Documents\PalisadeMirandaV2\PalisadeBackend\PalisadeMirandaV2\Palisade.Interface\bin\Debug\netcoreapp3.1\Palisade.Shared.dll
+C:\Users\Jason\OneDrive\Documents\PalisadeMirandaV2\PalisadeBackend\PalisadeMirandaV2\Palisade.Interface\bin\Debug\netcoreapp3.1\Palisade.Shared.pdb
+C:\Users\Jason\OneDrive\Documents\PalisadeMirandaV2\PalisadeBackend\PalisadeMirandaV2\Palisade.Interface\obj\Debug\netcoreapp3.1\Palisade.Interface.csproj.CopyComplete

@@ -1,0 +1,10 @@
+C:\Users\Jason\OneDrive\Documents\PalisadeMirandaV2\PalisadeBackend\PalisadeMirandaV2\Palisade.Shared\bin\Debug\netcoreapp3.1\Palisade.Shared.deps.json
+C:\Users\Jason\OneDrive\Documents\PalisadeMirandaV2\PalisadeBackend\PalisadeMirandaV2\Palisade.Shared\bin\Debug\netcoreapp3.1\Palisade.Shared.dll
+C:\Users\Jason\OneDrive\Documents\PalisadeMirandaV2\PalisadeBackend\PalisadeMirandaV2\Palisade.Shared\bin\Debug\netcoreapp3.1\Palisade.Shared.pdb
+C:\Users\Jason\OneDrive\Documents\PalisadeMirandaV2\PalisadeBackend\PalisadeMirandaV2\Palisade.Shared\obj\Debug\netcoreapp3.1\Palisade.Shared.csprojAssemblyReference.cache
+C:\Users\Jason\OneDrive\Documents\PalisadeMirandaV2\PalisadeBackend\PalisadeMirandaV2\Palisade.Shared\obj\Debug\netcoreapp3.1\Palisade.Shared.AssemblyInfoInputs.cache
+C:\Users\Jason\OneDrive\Documents\PalisadeMirandaV2\PalisadeBackend\PalisadeMirandaV2\Palisade.Shared\obj\Debug\netcoreapp3.1\Palisade.Shared.AssemblyInfo.cs
+C:\Users\Jason\OneDrive\Documents\PalisadeMirandaV2\PalisadeBackend\PalisadeMirandaV2\Palisade.Shared\obj\Debug\netcoreapp3.1\Palisade.Shared.dll
+C:\Users\Jason\OneDrive\Documents\PalisadeMirandaV2\PalisadeBackend\PalisadeMirandaV2\Palisade.Shared\obj\Debug\netcoreapp3.1\Palisade.Shared.pdb
+C:\Users\Jason\OneDrive\Documents\PalisadeMirandaV2\PalisadeBackend\PalisadeMirandaV2\Palisade.Shared\bin\Debug\netcoreapp3.1\Palisade.Shared.runtimeconfig.json
+C:\Users\Jason\OneDrive\Documents\PalisadeMirandaV2\PalisadeBackend\PalisadeMirandaV2\Palisade.Shared\bin\Debug\netcoreapp3.1\Palisade.Shared.runtimeconfig.dev.json

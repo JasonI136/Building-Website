@@ -1,0 +1,15 @@
+C:\Users\Jason\OneDrive\Documents\PalisadeMirandaV2\PalisadeBackend\PalisadeMirandaV2\Palisade.Domain\bin\Debug\netcoreapp3.1\Palisade.Domain.deps.json
+C:\Users\Jason\OneDrive\Documents\PalisadeMirandaV2\PalisadeBackend\PalisadeMirandaV2\Palisade.Domain\bin\Debug\netcoreapp3.1\Palisade.Domain.dll
+C:\Users\Jason\OneDrive\Documents\PalisadeMirandaV2\PalisadeBackend\PalisadeMirandaV2\Palisade.Domain\bin\Debug\netcoreapp3.1\Palisade.Domain.pdb
+C:\Users\Jason\OneDrive\Documents\PalisadeMirandaV2\PalisadeBackend\PalisadeMirandaV2\Palisade.Domain\obj\Debug\netcoreapp3.1\Palisade.Domain.csprojAssemblyReference.cache
+C:\Users\Jason\OneDrive\Documents\PalisadeMirandaV2\PalisadeBackend\PalisadeMirandaV2\Palisade.Domain\obj\Debug\netcoreapp3.1\Palisade.Domain.AssemblyInfoInputs.cache
+C:\Users\Jason\OneDrive\Documents\PalisadeMirandaV2\PalisadeBackend\PalisadeMirandaV2\Palisade.Domain\obj\Debug\netcoreapp3.1\Palisade.Domain.AssemblyInfo.cs
+C:\Users\Jason\OneDrive\Documents\PalisadeMirandaV2\PalisadeBackend\PalisadeMirandaV2\Palisade.Domain\obj\Debug\netcoreapp3.1\Palisade.Domain.dll
+C:\Users\Jason\OneDrive\Documents\PalisadeMirandaV2\PalisadeBackend\PalisadeMirandaV2\Palisade.Domain\obj\Debug\netcoreapp3.1\Palisade.Domain.pdb
+C:\Users\Jason\OneDrive\Documents\PalisadeMirandaV2\PalisadeBackend\PalisadeMirandaV2\Palisade.Domain\bin\Debug\netcoreapp3.1\Palisade.Domain.runtimeconfig.json
+C:\Users\Jason\OneDrive\Documents\PalisadeMirandaV2\PalisadeBackend\PalisadeMirandaV2\Palisade.Domain\bin\Debug\netcoreapp3.1\Palisade.Domain.runtimeconfig.dev.json
+C:\Users\Jason\OneDrive\Documents\PalisadeMirandaV2\PalisadeBackend\PalisadeMirandaV2\Palisade.Domain\bin\Debug\netcoreapp3.1\Palisade.Shared.dll
+C:\Users\Jason\OneDrive\Documents\PalisadeMirandaV2\PalisadeBackend\PalisadeMirandaV2\Palisade.Domain\bin\Debug\netcoreapp3.1\Palisade.Shared.pdb
+C:\Users\Jason\OneDrive\Documents\PalisadeMirandaV2\PalisadeBackend\PalisadeMirandaV2\Palisade.Domain\obj\Debug\netcoreapp3.1\Palisade.Domain.csproj.CopyComplete
+C:\Users\Jason\OneDrive\Documents\PalisadeMirandaV2\PalisadeBackend\PalisadeMirandaV2\Palisade.Domain\bin\Debug\netcoreapp3.1\Palisade.Interface.dll
+C:\Users\Jason\OneDrive\Documents\PalisadeMirandaV2\PalisadeBackend\PalisadeMirandaV2\Palisade.Domain\bin\Debug\netcoreapp3.1\Palisade.Interface.pdb
