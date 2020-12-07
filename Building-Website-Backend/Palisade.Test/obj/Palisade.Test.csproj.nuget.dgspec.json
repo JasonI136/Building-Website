@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jason\\OneDrive\\Documents\\PalisadeMirandaV2\\PalisadeBackend\\PalisadeMirandaV2\\Palisade.Test\\Palisade.Test.csproj": {}
+    "C:\\Users\\NovaProxyPc\\Documents\\Github 2\\Building-Website\\Building-Website\\Building-Website-Backend\\Palisade.Test\\Palisade.Test.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jason\\OneDrive\\Documents\\PalisadeMirandaV2\\PalisadeBackend\\PalisadeMirandaV2\\Palisade.Test\\Palisade.Test.csproj": {
+    "C:\\Users\\NovaProxyPc\\Documents\\Github 2\\Building-Website\\Building-Website\\Building-Website-Backend\\Palisade.Test\\Palisade.Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jason\\OneDrive\\Documents\\PalisadeMirandaV2\\PalisadeBackend\\PalisadeMirandaV2\\Palisade.Test\\Palisade.Test.csproj",
+        "projectUniqueName": "C:\\Users\\NovaProxyPc\\Documents\\Github 2\\Building-Website\\Building-Website\\Building-Website-Backend\\Palisade.Test\\Palisade.Test.csproj",
         "projectName": "Palisade.Test",
-        "projectPath": "C:\\Users\\Jason\\OneDrive\\Documents\\PalisadeMirandaV2\\PalisadeBackend\\PalisadeMirandaV2\\Palisade.Test\\Palisade.Test.csproj",
-        "packagesPath": "C:\\Users\\Jason\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jason\\OneDrive\\Documents\\PalisadeMirandaV2\\PalisadeBackend\\PalisadeMirandaV2\\Palisade.Test\\obj\\",
+        "projectPath": "C:\\Users\\NovaProxyPc\\Documents\\Github 2\\Building-Website\\Building-Website\\Building-Website-Backend\\Palisade.Test\\Palisade.Test.csproj",
+        "packagesPath": "C:\\Users\\NovaProxyPc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\NovaProxyPc\\Documents\\Github 2\\Building-Website\\Building-Website\\Building-Website-Backend\\Palisade.Test\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Jason\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\NovaProxyPc\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -85,7 +85,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

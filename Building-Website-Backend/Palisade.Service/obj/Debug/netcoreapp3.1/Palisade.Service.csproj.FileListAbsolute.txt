@@ -15,3 +15,22 @@ C:\Users\Jason\OneDrive\Documents\PalisadeMirandaV2\PalisadeBackend\PalisadeMira
 C:\Users\Jason\OneDrive\Documents\PalisadeMirandaV2\PalisadeBackend\PalisadeMirandaV2\Palisade.Service\bin\Debug\netcoreapp3.1\Palisade.Interface.dll
 C:\Users\Jason\OneDrive\Documents\PalisadeMirandaV2\PalisadeBackend\PalisadeMirandaV2\Palisade.Service\bin\Debug\netcoreapp3.1\Palisade.Domain.pdb
 C:\Users\Jason\OneDrive\Documents\PalisadeMirandaV2\PalisadeBackend\PalisadeMirandaV2\Palisade.Service\bin\Debug\netcoreapp3.1\Palisade.Interface.pdb
+C:\Users\NovaProxyPc\Documents\Github 2\Building-Website\Building-Website\Building-Website-Backend\Palisade.Service\bin\Debug\netcoreapp3.1\Palisade.Service.deps.json
+C:\Users\NovaProxyPc\Documents\Github 2\Building-Website\Building-Website\Building-Website-Backend\Palisade.Service\bin\Debug\netcoreapp3.1\Palisade.Service.runtimeconfig.json
+C:\Users\NovaProxyPc\Documents\Github 2\Building-Website\Building-Website\Building-Website-Backend\Palisade.Service\bin\Debug\netcoreapp3.1\Palisade.Service.runtimeconfig.dev.json
+C:\Users\NovaProxyPc\Documents\Github 2\Building-Website\Building-Website\Building-Website-Backend\Palisade.Service\bin\Debug\netcoreapp3.1\Palisade.Service.dll
+C:\Users\NovaProxyPc\Documents\Github 2\Building-Website\Building-Website\Building-Website-Backend\Palisade.Service\bin\Debug\netcoreapp3.1\Palisade.Service.pdb
+C:\Users\NovaProxyPc\Documents\Github 2\Building-Website\Building-Website\Building-Website-Backend\Palisade.Service\bin\Debug\netcoreapp3.1\Palisade.Domain.dll
+C:\Users\NovaProxyPc\Documents\Github 2\Building-Website\Building-Website\Building-Website-Backend\Palisade.Service\bin\Debug\netcoreapp3.1\Palisade.Interface.dll
+C:\Users\NovaProxyPc\Documents\Github 2\Building-Website\Building-Website\Building-Website-Backend\Palisade.Service\bin\Debug\netcoreapp3.1\Palisade.Shared.dll
+C:\Users\NovaProxyPc\Documents\Github 2\Building-Website\Building-Website\Building-Website-Backend\Palisade.Service\bin\Debug\netcoreapp3.1\Palisade.Domain.pdb
+C:\Users\NovaProxyPc\Documents\Github 2\Building-Website\Building-Website\Building-Website-Backend\Palisade.Service\bin\Debug\netcoreapp3.1\Palisade.Interface.pdb
+C:\Users\NovaProxyPc\Documents\Github 2\Building-Website\Building-Website\Building-Website-Backend\Palisade.Service\bin\Debug\netcoreapp3.1\Palisade.Shared.pdb
+C:\Users\NovaProxyPc\Documents\Github 2\Building-Website\Building-Website\Building-Website-Backend\Palisade.Service\obj\Debug\netcoreapp3.1\Palisade.Service.csprojAssemblyReference.cache
+C:\Users\NovaProxyPc\Documents\Github 2\Building-Website\Building-Website\Building-Website-Backend\Palisade.Service\obj\Debug\netcoreapp3.1\Palisade.Service.csproj.CoreCompileInputs.cache
+C:\Users\NovaProxyPc\Documents\Github 2\Building-Website\Building-Website\Building-Website-Backend\Palisade.Service\obj\Debug\netcoreapp3.1\Palisade.Service.AssemblyInfoInputs.cache
+C:\Users\NovaProxyPc\Documents\Github 2\Building-Website\Building-Website\Building-Website-Backend\Palisade.Service\obj\Debug\netcoreapp3.1\Palisade.Service.AssemblyInfo.cs
+C:\Users\NovaProxyPc\Documents\Github 2\Building-Website\Building-Website\Building-Website-Backend\Palisade.Service\obj\Debug\netcoreapp3.1\Palisade.Service.csproj.CopyComplete
+C:\Users\NovaProxyPc\Documents\Github 2\Building-Website\Building-Website\Building-Website-Backend\Palisade.Service\obj\Debug\netcoreapp3.1\Palisade.Service.dll
+C:\Users\NovaProxyPc\Documents\Github 2\Building-Website\Building-Website\Building-Website-Backend\Palisade.Service\obj\Debug\netcoreapp3.1\Palisade.Service.pdb
+C:\Users\NovaProxyPc\Documents\Github 2\Building-Website\Building-Website\Building-Website-Backend\Palisade.Service\obj\Debug\netcoreapp3.1\Palisade.Service.genruntimeconfig.cache

@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jason\\OneDrive\\Documents\\PalisadeMirandaV2\\PalisadeBackend\\PalisadeMirandaV2\\Palisade.Domain\\Palisade.Domain.csproj": {}
+    "C:\\Users\\NovaProxyPc\\Documents\\Github 2\\Building-Website\\Building-Website\\Building-Website-Backend\\Palisade.Domain\\Palisade.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jason\\OneDrive\\Documents\\PalisadeMirandaV2\\PalisadeBackend\\PalisadeMirandaV2\\Palisade.Domain\\Palisade.Domain.csproj": {
+    "C:\\Users\\NovaProxyPc\\Documents\\Github 2\\Building-Website\\Building-Website\\Building-Website-Backend\\Palisade.Domain\\Palisade.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jason\\OneDrive\\Documents\\PalisadeMirandaV2\\PalisadeBackend\\PalisadeMirandaV2\\Palisade.Domain\\Palisade.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\NovaProxyPc\\Documents\\Github 2\\Building-Website\\Building-Website\\Building-Website-Backend\\Palisade.Domain\\Palisade.Domain.csproj",
         "projectName": "Palisade.Domain",
-        "projectPath": "C:\\Users\\Jason\\OneDrive\\Documents\\PalisadeMirandaV2\\PalisadeBackend\\PalisadeMirandaV2\\Palisade.Domain\\Palisade.Domain.csproj",
-        "packagesPath": "C:\\Users\\Jason\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jason\\OneDrive\\Documents\\PalisadeMirandaV2\\PalisadeBackend\\PalisadeMirandaV2\\Palisade.Domain\\obj\\",
+        "projectPath": "C:\\Users\\NovaProxyPc\\Documents\\Github 2\\Building-Website\\Building-Website\\Building-Website-Backend\\Palisade.Domain\\Palisade.Domain.csproj",
+        "packagesPath": "C:\\Users\\NovaProxyPc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\NovaProxyPc\\Documents\\Github 2\\Building-Website\\Building-Website\\Building-Website-Backend\\Palisade.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Jason\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\NovaProxyPc\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -32,11 +32,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\Jason\\OneDrive\\Documents\\PalisadeMirandaV2\\PalisadeBackend\\PalisadeMirandaV2\\Palisade.Interface\\Palisade.Interface.csproj": {
-                "projectPath": "C:\\Users\\Jason\\OneDrive\\Documents\\PalisadeMirandaV2\\PalisadeBackend\\PalisadeMirandaV2\\Palisade.Interface\\Palisade.Interface.csproj"
+              "C:\\Users\\NovaProxyPc\\Documents\\Github 2\\Building-Website\\Building-Website\\Building-Website-Backend\\Palisade.Interface\\Palisade.Interface.csproj": {
+                "projectPath": "C:\\Users\\NovaProxyPc\\Documents\\Github 2\\Building-Website\\Building-Website\\Building-Website-Backend\\Palisade.Interface\\Palisade.Interface.csproj"
               },
-              "C:\\Users\\Jason\\OneDrive\\Documents\\PalisadeMirandaV2\\PalisadeBackend\\PalisadeMirandaV2\\Palisade.Shared\\Palisade.Shared.csproj": {
-                "projectPath": "C:\\Users\\Jason\\OneDrive\\Documents\\PalisadeMirandaV2\\PalisadeBackend\\PalisadeMirandaV2\\Palisade.Shared\\Palisade.Shared.csproj"
+              "C:\\Users\\NovaProxyPc\\Documents\\Github 2\\Building-Website\\Building-Website\\Building-Website-Backend\\Palisade.Shared\\Palisade.Shared.csproj": {
+                "projectPath": "C:\\Users\\NovaProxyPc\\Documents\\Github 2\\Building-Website\\Building-Website\\Building-Website-Backend\\Palisade.Shared\\Palisade.Shared.csproj"
               }
             }
           }
@@ -80,25 +80,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Jason\\OneDrive\\Documents\\PalisadeMirandaV2\\PalisadeBackend\\PalisadeMirandaV2\\Palisade.Interface\\Palisade.Interface.csproj": {
+    "C:\\Users\\NovaProxyPc\\Documents\\Github 2\\Building-Website\\Building-Website\\Building-Website-Backend\\Palisade.Interface\\Palisade.Interface.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jason\\OneDrive\\Documents\\PalisadeMirandaV2\\PalisadeBackend\\PalisadeMirandaV2\\Palisade.Interface\\Palisade.Interface.csproj",
+        "projectUniqueName": "C:\\Users\\NovaProxyPc\\Documents\\Github 2\\Building-Website\\Building-Website\\Building-Website-Backend\\Palisade.Interface\\Palisade.Interface.csproj",
         "projectName": "Palisade.Interface",
-        "projectPath": "C:\\Users\\Jason\\OneDrive\\Documents\\PalisadeMirandaV2\\PalisadeBackend\\PalisadeMirandaV2\\Palisade.Interface\\Palisade.Interface.csproj",
-        "packagesPath": "C:\\Users\\Jason\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jason\\OneDrive\\Documents\\PalisadeMirandaV2\\PalisadeBackend\\PalisadeMirandaV2\\Palisade.Interface\\obj\\",
+        "projectPath": "C:\\Users\\NovaProxyPc\\Documents\\Github 2\\Building-Website\\Building-Website\\Building-Website-Backend\\Palisade.Interface\\Palisade.Interface.csproj",
+        "packagesPath": "C:\\Users\\NovaProxyPc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\NovaProxyPc\\Documents\\Github 2\\Building-Website\\Building-Website\\Building-Website-Backend\\Palisade.Interface\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Jason\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\NovaProxyPc\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -112,8 +112,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\Jason\\OneDrive\\Documents\\PalisadeMirandaV2\\PalisadeBackend\\PalisadeMirandaV2\\Palisade.Shared\\Palisade.Shared.csproj": {
-                "projectPath": "C:\\Users\\Jason\\OneDrive\\Documents\\PalisadeMirandaV2\\PalisadeBackend\\PalisadeMirandaV2\\Palisade.Shared\\Palisade.Shared.csproj"
+              "C:\\Users\\NovaProxyPc\\Documents\\Github 2\\Building-Website\\Building-Website\\Building-Website-Backend\\Palisade.Shared\\Palisade.Shared.csproj": {
+                "projectPath": "C:\\Users\\NovaProxyPc\\Documents\\Github 2\\Building-Website\\Building-Website\\Building-Website-Backend\\Palisade.Shared\\Palisade.Shared.csproj"
               }
             }
           }
@@ -157,25 +157,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Jason\\OneDrive\\Documents\\PalisadeMirandaV2\\PalisadeBackend\\PalisadeMirandaV2\\Palisade.Shared\\Palisade.Shared.csproj": {
+    "C:\\Users\\NovaProxyPc\\Documents\\Github 2\\Building-Website\\Building-Website\\Building-Website-Backend\\Palisade.Shared\\Palisade.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jason\\OneDrive\\Documents\\PalisadeMirandaV2\\PalisadeBackend\\PalisadeMirandaV2\\Palisade.Shared\\Palisade.Shared.csproj",
+        "projectUniqueName": "C:\\Users\\NovaProxyPc\\Documents\\Github 2\\Building-Website\\Building-Website\\Building-Website-Backend\\Palisade.Shared\\Palisade.Shared.csproj",
         "projectName": "Palisade.Shared",
-        "projectPath": "C:\\Users\\Jason\\OneDrive\\Documents\\PalisadeMirandaV2\\PalisadeBackend\\PalisadeMirandaV2\\Palisade.Shared\\Palisade.Shared.csproj",
-        "packagesPath": "C:\\Users\\Jason\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jason\\OneDrive\\Documents\\PalisadeMirandaV2\\PalisadeBackend\\PalisadeMirandaV2\\Palisade.Shared\\obj\\",
+        "projectPath": "C:\\Users\\NovaProxyPc\\Documents\\Github 2\\Building-Website\\Building-Website\\Building-Website-Backend\\Palisade.Shared\\Palisade.Shared.csproj",
+        "packagesPath": "C:\\Users\\NovaProxyPc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\NovaProxyPc\\Documents\\Github 2\\Building-Website\\Building-Website\\Building-Website-Backend\\Palisade.Shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Jason\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\NovaProxyPc\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -230,7 +230,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

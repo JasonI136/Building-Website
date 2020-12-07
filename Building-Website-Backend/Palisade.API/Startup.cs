@@ -14,6 +14,7 @@ using Palisade.Domain.Entity;
 using Palisade.Domain.Repository;
 using Palisade.Interface.Domain;
 using Palisade.Service;
+using Palisade.Shared.Helper;
 
 namespace Palisade.API
 {
@@ -47,6 +48,8 @@ namespace Palisade.API
             services.AddTransient<IUserService, UserService>();
             services.AddTransient<IContactUsService, ContactUsService>();
             services.AddTransient<IBuildingService, BuildingService>();
+
+            BuildingWebsiteConfiguration.Instance.Configuration = Configuration;
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
