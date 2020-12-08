@@ -1,0 +1,15 @@
+C:\Users\NovaProxyPc\source\repos\AdminBuildingBackend\BuildingAdmin.Interface\bin\Debug\netcoreapp3.1\BuildingAdmin.Interface.deps.json
+C:\Users\NovaProxyPc\source\repos\AdminBuildingBackend\BuildingAdmin.Interface\bin\Debug\netcoreapp3.1\BuildingAdmin.Interface.dll
+C:\Users\NovaProxyPc\source\repos\AdminBuildingBackend\BuildingAdmin.Interface\obj\Debug\netcoreapp3.1\BuildingAdmin.Interface.csprojAssemblyReference.cache
+C:\Users\NovaProxyPc\source\repos\AdminBuildingBackend\BuildingAdmin.Interface\obj\Debug\netcoreapp3.1\BuildingAdmin.Interface.AssemblyInfoInputs.cache
+C:\Users\NovaProxyPc\source\repos\AdminBuildingBackend\BuildingAdmin.Interface\obj\Debug\netcoreapp3.1\BuildingAdmin.Interface.AssemblyInfo.cs
+C:\Users\NovaProxyPc\source\repos\AdminBuildingBackend\BuildingAdmin.Interface\bin\Debug\netcoreapp3.1\BuildingAdmin.Interface.runtimeconfig.json
+C:\Users\NovaProxyPc\source\repos\AdminBuildingBackend\BuildingAdmin.Interface\bin\Debug\netcoreapp3.1\BuildingAdmin.Interface.runtimeconfig.dev.json
+C:\Users\NovaProxyPc\source\repos\AdminBuildingBackend\BuildingAdmin.Interface\obj\Debug\netcoreapp3.1\BuildingAdmin.Interface.genruntimeconfig.cache
+C:\Users\NovaProxyPc\source\repos\AdminBuildingBackend\BuildingAdmin.Interface\bin\Debug\netcoreapp3.1\BuildingAdmin.Interface.pdb
+C:\Users\NovaProxyPc\source\repos\AdminBuildingBackend\BuildingAdmin.Interface\bin\Debug\netcoreapp3.1\BuildingAdmin.Shared.dll
+C:\Users\NovaProxyPc\source\repos\AdminBuildingBackend\BuildingAdmin.Interface\bin\Debug\netcoreapp3.1\BuildingAdmin.Shared.pdb
+C:\Users\NovaProxyPc\source\repos\AdminBuildingBackend\BuildingAdmin.Interface\obj\Debug\netcoreapp3.1\BuildingAdmin.Interface.csproj.CoreCompileInputs.cache
+C:\Users\NovaProxyPc\source\repos\AdminBuildingBackend\BuildingAdmin.Interface\obj\Debug\netcoreapp3.1\BuildingAdmin.Interface.csproj.CopyComplete
+C:\Users\NovaProxyPc\source\repos\AdminBuildingBackend\BuildingAdmin.Interface\obj\Debug\netcoreapp3.1\BuildingAdmin.Interface.dll
+C:\Users\NovaProxyPc\source\repos\AdminBuildingBackend\BuildingAdmin.Interface\obj\Debug\netcoreapp3.1\BuildingAdmin.Interface.pdb

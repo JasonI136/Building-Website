@@ -1,0 +1,12 @@
+C:\Users\NovaProxyPc\source\repos\AdminBuildingBackend\BuildingAdmin.Test\bin\Debug\netcoreapp3.1\BuildingAdmin.Test.deps.json
+C:\Users\NovaProxyPc\source\repos\AdminBuildingBackend\BuildingAdmin.Test\bin\Debug\netcoreapp3.1\BuildingAdmin.Test.dll
+C:\Users\NovaProxyPc\source\repos\AdminBuildingBackend\BuildingAdmin.Test\obj\Debug\netcoreapp3.1\BuildingAdmin.Test.AssemblyInfoInputs.cache
+C:\Users\NovaProxyPc\source\repos\AdminBuildingBackend\BuildingAdmin.Test\obj\Debug\netcoreapp3.1\BuildingAdmin.Test.AssemblyInfo.cs
+C:\Users\NovaProxyPc\source\repos\AdminBuildingBackend\BuildingAdmin.Test\bin\Debug\netcoreapp3.1\BuildingAdmin.Test.runtimeconfig.json
+C:\Users\NovaProxyPc\source\repos\AdminBuildingBackend\BuildingAdmin.Test\bin\Debug\netcoreapp3.1\BuildingAdmin.Test.runtimeconfig.dev.json
+C:\Users\NovaProxyPc\source\repos\AdminBuildingBackend\BuildingAdmin.Test\obj\Debug\netcoreapp3.1\BuildingAdmin.Test.csprojAssemblyReference.cache
+C:\Users\NovaProxyPc\source\repos\AdminBuildingBackend\BuildingAdmin.Test\obj\Debug\netcoreapp3.1\BuildingAdmin.Test.genruntimeconfig.cache
+C:\Users\NovaProxyPc\source\repos\AdminBuildingBackend\BuildingAdmin.Test\bin\Debug\netcoreapp3.1\BuildingAdmin.Test.pdb
+C:\Users\NovaProxyPc\source\repos\AdminBuildingBackend\BuildingAdmin.Test\obj\Debug\netcoreapp3.1\BuildingAdmin.Test.csproj.CoreCompileInputs.cache
+C:\Users\NovaProxyPc\source\repos\AdminBuildingBackend\BuildingAdmin.Test\obj\Debug\netcoreapp3.1\BuildingAdmin.Test.dll
+C:\Users\NovaProxyPc\source\repos\AdminBuildingBackend\BuildingAdmin.Test\obj\Debug\netcoreapp3.1\BuildingAdmin.Test.pdb

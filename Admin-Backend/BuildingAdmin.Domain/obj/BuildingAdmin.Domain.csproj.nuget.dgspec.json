@@ -1,0 +1,226 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\NovaProxyPc\\source\\repos\\AdminBuildingBackend\\BuildingAdmin.Domain\\BuildingAdmin.Domain.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\NovaProxyPc\\source\\repos\\AdminBuildingBackend\\BuildingAdmin.Domain\\BuildingAdmin.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\NovaProxyPc\\source\\repos\\AdminBuildingBackend\\BuildingAdmin.Domain\\BuildingAdmin.Domain.csproj",
+        "projectName": "BuildingAdmin.Domain",
+        "projectPath": "C:\\Users\\NovaProxyPc\\source\\repos\\AdminBuildingBackend\\BuildingAdmin.Domain\\BuildingAdmin.Domain.csproj",
+        "packagesPath": "C:\\Users\\NovaProxyPc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\NovaProxyPc\\source\\repos\\AdminBuildingBackend\\BuildingAdmin.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\NovaProxyPc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\NovaProxyPc\\source\\repos\\AdminBuildingBackend\\BuildingAdmin.Interface\\BuildingAdmin.Interface.csproj": {
+                "projectPath": "C:\\Users\\NovaProxyPc\\source\\repos\\AdminBuildingBackend\\BuildingAdmin.Interface\\BuildingAdmin.Interface.csproj"
+              },
+              "C:\\Users\\NovaProxyPc\\source\\repos\\AdminBuildingBackend\\BuildingAdmin.Shared\\BuildingAdmin.Shared.csproj": {
+                "projectPath": "C:\\Users\\NovaProxyPc\\source\\repos\\AdminBuildingBackend\\BuildingAdmin.Shared\\BuildingAdmin.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\NovaProxyPc\\source\\repos\\AdminBuildingBackend\\BuildingAdmin.Interface\\BuildingAdmin.Interface.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\NovaProxyPc\\source\\repos\\AdminBuildingBackend\\BuildingAdmin.Interface\\BuildingAdmin.Interface.csproj",
+        "projectName": "BuildingAdmin.Interface",
+        "projectPath": "C:\\Users\\NovaProxyPc\\source\\repos\\AdminBuildingBackend\\BuildingAdmin.Interface\\BuildingAdmin.Interface.csproj",
+        "packagesPath": "C:\\Users\\NovaProxyPc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\NovaProxyPc\\source\\repos\\AdminBuildingBackend\\BuildingAdmin.Interface\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\NovaProxyPc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\NovaProxyPc\\source\\repos\\AdminBuildingBackend\\BuildingAdmin.Shared\\BuildingAdmin.Shared.csproj": {
+                "projectPath": "C:\\Users\\NovaProxyPc\\source\\repos\\AdminBuildingBackend\\BuildingAdmin.Shared\\BuildingAdmin.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\NovaProxyPc\\source\\repos\\AdminBuildingBackend\\BuildingAdmin.Shared\\BuildingAdmin.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\NovaProxyPc\\source\\repos\\AdminBuildingBackend\\BuildingAdmin.Shared\\BuildingAdmin.Shared.csproj",
+        "projectName": "BuildingAdmin.Shared",
+        "projectPath": "C:\\Users\\NovaProxyPc\\source\\repos\\AdminBuildingBackend\\BuildingAdmin.Shared\\BuildingAdmin.Shared.csproj",
+        "packagesPath": "C:\\Users\\NovaProxyPc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\NovaProxyPc\\source\\repos\\AdminBuildingBackend\\BuildingAdmin.Shared\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\NovaProxyPc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
