@@ -10,3 +10,15 @@ C:\Users\NovaProxyPc\source\repos\AdminBuildingBackend\BuildingAdmin.Shared\obj\
 C:\Users\NovaProxyPc\source\repos\AdminBuildingBackend\BuildingAdmin.Shared\obj\Debug\netcoreapp3.1\BuildingAdmin.Shared.csproj.CoreCompileInputs.cache
 C:\Users\NovaProxyPc\source\repos\AdminBuildingBackend\BuildingAdmin.Shared\obj\Debug\netcoreapp3.1\BuildingAdmin.Shared.dll
 C:\Users\NovaProxyPc\source\repos\AdminBuildingBackend\BuildingAdmin.Shared\obj\Debug\netcoreapp3.1\BuildingAdmin.Shared.pdb
+C:\Users\NovaProxyPc\Documents\Github MAIN\Building-Website\Building-Website\Admin-Backend\BuildingAdmin.Shared\bin\Debug\netcoreapp3.1\BuildingAdmin.Shared.deps.json
+C:\Users\NovaProxyPc\Documents\Github MAIN\Building-Website\Building-Website\Admin-Backend\BuildingAdmin.Shared\bin\Debug\netcoreapp3.1\BuildingAdmin.Shared.runtimeconfig.json
+C:\Users\NovaProxyPc\Documents\Github MAIN\Building-Website\Building-Website\Admin-Backend\BuildingAdmin.Shared\bin\Debug\netcoreapp3.1\BuildingAdmin.Shared.runtimeconfig.dev.json
+C:\Users\NovaProxyPc\Documents\Github MAIN\Building-Website\Building-Website\Admin-Backend\BuildingAdmin.Shared\bin\Debug\netcoreapp3.1\BuildingAdmin.Shared.dll
+C:\Users\NovaProxyPc\Documents\Github MAIN\Building-Website\Building-Website\Admin-Backend\BuildingAdmin.Shared\bin\Debug\netcoreapp3.1\BuildingAdmin.Shared.pdb
+C:\Users\NovaProxyPc\Documents\Github MAIN\Building-Website\Building-Website\Admin-Backend\BuildingAdmin.Shared\obj\Debug\netcoreapp3.1\BuildingAdmin.Shared.csprojAssemblyReference.cache
+C:\Users\NovaProxyPc\Documents\Github MAIN\Building-Website\Building-Website\Admin-Backend\BuildingAdmin.Shared\obj\Debug\netcoreapp3.1\BuildingAdmin.Shared.csproj.CoreCompileInputs.cache
+C:\Users\NovaProxyPc\Documents\Github MAIN\Building-Website\Building-Website\Admin-Backend\BuildingAdmin.Shared\obj\Debug\netcoreapp3.1\BuildingAdmin.Shared.AssemblyInfoInputs.cache
+C:\Users\NovaProxyPc\Documents\Github MAIN\Building-Website\Building-Website\Admin-Backend\BuildingAdmin.Shared\obj\Debug\netcoreapp3.1\BuildingAdmin.Shared.AssemblyInfo.cs
+C:\Users\NovaProxyPc\Documents\Github MAIN\Building-Website\Building-Website\Admin-Backend\BuildingAdmin.Shared\obj\Debug\netcoreapp3.1\BuildingAdmin.Shared.dll
+C:\Users\NovaProxyPc\Documents\Github MAIN\Building-Website\Building-Website\Admin-Backend\BuildingAdmin.Shared\obj\Debug\netcoreapp3.1\BuildingAdmin.Shared.pdb
+C:\Users\NovaProxyPc\Documents\Github MAIN\Building-Website\Building-Website\Admin-Backend\BuildingAdmin.Shared\obj\Debug\netcoreapp3.1\BuildingAdmin.Shared.genruntimeconfig.cache

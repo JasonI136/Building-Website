@@ -6074,11 +6074,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\NovaProxyPc\\Documents\\Github 2\\Building-Website\\Building-Website\\Building-Website-Backend\\Palisade.Shared\\Palisade.Shared.csproj",
+      "projectUniqueName": "C:\\Users\\NovaProxyPc\\Documents\\Github MAIN\\Building-Website\\Building-Website\\Building-Website-Backend\\Palisade.Shared\\Palisade.Shared.csproj",
       "projectName": "Palisade.Shared",
-      "projectPath": "C:\\Users\\NovaProxyPc\\Documents\\Github 2\\Building-Website\\Building-Website\\Building-Website-Backend\\Palisade.Shared\\Palisade.Shared.csproj",
+      "projectPath": "C:\\Users\\NovaProxyPc\\Documents\\Github MAIN\\Building-Website\\Building-Website\\Building-Website-Backend\\Palisade.Shared\\Palisade.Shared.csproj",
       "packagesPath": "C:\\Users\\NovaProxyPc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\NovaProxyPc\\Documents\\Github 2\\Building-Website\\Building-Website\\Building-Website-Backend\\Palisade.Shared\\obj\\",
+      "outputPath": "C:\\Users\\NovaProxyPc\\Documents\\Github MAIN\\Building-Website\\Building-Website\\Building-Website-Backend\\Palisade.Shared\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

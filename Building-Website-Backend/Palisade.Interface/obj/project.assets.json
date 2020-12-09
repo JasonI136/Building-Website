@@ -6094,11 +6094,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\NovaProxyPc\\Documents\\Github 2\\Building-Website\\Building-Website\\Building-Website-Backend\\Palisade.Interface\\Palisade.Interface.csproj",
+      "projectUniqueName": "C:\\Users\\NovaProxyPc\\Documents\\Github MAIN\\Building-Website\\Building-Website\\Building-Website-Backend\\Palisade.Interface\\Palisade.Interface.csproj",
       "projectName": "Palisade.Interface",
-      "projectPath": "C:\\Users\\NovaProxyPc\\Documents\\Github 2\\Building-Website\\Building-Website\\Building-Website-Backend\\Palisade.Interface\\Palisade.Interface.csproj",
+      "projectPath": "C:\\Users\\NovaProxyPc\\Documents\\Github MAIN\\Building-Website\\Building-Website\\Building-Website-Backend\\Palisade.Interface\\Palisade.Interface.csproj",
       "packagesPath": "C:\\Users\\NovaProxyPc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\NovaProxyPc\\Documents\\Github 2\\Building-Website\\Building-Website\\Building-Website-Backend\\Palisade.Interface\\obj\\",
+      "outputPath": "C:\\Users\\NovaProxyPc\\Documents\\Github MAIN\\Building-Website\\Building-Website\\Building-Website-Backend\\Palisade.Interface\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -6119,8 +6119,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\NovaProxyPc\\Documents\\Github 2\\Building-Website\\Building-Website\\Building-Website-Backend\\Palisade.Shared\\Palisade.Shared.csproj": {
-              "projectPath": "C:\\Users\\NovaProxyPc\\Documents\\Github 2\\Building-Website\\Building-Website\\Building-Website-Backend\\Palisade.Shared\\Palisade.Shared.csproj"
+            "C:\\Users\\NovaProxyPc\\Documents\\Github MAIN\\Building-Website\\Building-Website\\Building-Website-Backend\\Palisade.Shared\\Palisade.Shared.csproj": {
+              "projectPath": "C:\\Users\\NovaProxyPc\\Documents\\Github MAIN\\Building-Website\\Building-Website\\Building-Website-Backend\\Palisade.Shared\\Palisade.Shared.csproj"
             }
           }
         }

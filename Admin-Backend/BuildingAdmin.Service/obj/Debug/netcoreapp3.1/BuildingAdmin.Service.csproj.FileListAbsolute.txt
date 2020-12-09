@@ -17,3 +17,22 @@ C:\Users\NovaProxyPc\source\repos\AdminBuildingBackend\BuildingAdmin.Service\obj
 C:\Users\NovaProxyPc\source\repos\AdminBuildingBackend\BuildingAdmin.Service\obj\Debug\netcoreapp3.1\BuildingAdmin.Service.csproj.CopyComplete
 C:\Users\NovaProxyPc\source\repos\AdminBuildingBackend\BuildingAdmin.Service\obj\Debug\netcoreapp3.1\BuildingAdmin.Service.dll
 C:\Users\NovaProxyPc\source\repos\AdminBuildingBackend\BuildingAdmin.Service\obj\Debug\netcoreapp3.1\BuildingAdmin.Service.pdb
+C:\Users\NovaProxyPc\Documents\Github MAIN\Building-Website\Building-Website\Admin-Backend\BuildingAdmin.Service\bin\Debug\netcoreapp3.1\BuildingAdmin.Service.deps.json
+C:\Users\NovaProxyPc\Documents\Github MAIN\Building-Website\Building-Website\Admin-Backend\BuildingAdmin.Service\bin\Debug\netcoreapp3.1\BuildingAdmin.Service.runtimeconfig.json
+C:\Users\NovaProxyPc\Documents\Github MAIN\Building-Website\Building-Website\Admin-Backend\BuildingAdmin.Service\bin\Debug\netcoreapp3.1\BuildingAdmin.Service.runtimeconfig.dev.json
+C:\Users\NovaProxyPc\Documents\Github MAIN\Building-Website\Building-Website\Admin-Backend\BuildingAdmin.Service\bin\Debug\netcoreapp3.1\BuildingAdmin.Service.dll
+C:\Users\NovaProxyPc\Documents\Github MAIN\Building-Website\Building-Website\Admin-Backend\BuildingAdmin.Service\bin\Debug\netcoreapp3.1\BuildingAdmin.Service.pdb
+C:\Users\NovaProxyPc\Documents\Github MAIN\Building-Website\Building-Website\Admin-Backend\BuildingAdmin.Service\bin\Debug\netcoreapp3.1\BuildingAdmin.Domain.dll
+C:\Users\NovaProxyPc\Documents\Github MAIN\Building-Website\Building-Website\Admin-Backend\BuildingAdmin.Service\bin\Debug\netcoreapp3.1\BuildingAdmin.Interface.dll
+C:\Users\NovaProxyPc\Documents\Github MAIN\Building-Website\Building-Website\Admin-Backend\BuildingAdmin.Service\bin\Debug\netcoreapp3.1\BuildingAdmin.Shared.dll
+C:\Users\NovaProxyPc\Documents\Github MAIN\Building-Website\Building-Website\Admin-Backend\BuildingAdmin.Service\bin\Debug\netcoreapp3.1\BuildingAdmin.Domain.pdb
+C:\Users\NovaProxyPc\Documents\Github MAIN\Building-Website\Building-Website\Admin-Backend\BuildingAdmin.Service\bin\Debug\netcoreapp3.1\BuildingAdmin.Interface.pdb
+C:\Users\NovaProxyPc\Documents\Github MAIN\Building-Website\Building-Website\Admin-Backend\BuildingAdmin.Service\bin\Debug\netcoreapp3.1\BuildingAdmin.Shared.pdb
+C:\Users\NovaProxyPc\Documents\Github MAIN\Building-Website\Building-Website\Admin-Backend\BuildingAdmin.Service\obj\Debug\netcoreapp3.1\BuildingAdmin.Service.csprojAssemblyReference.cache
+C:\Users\NovaProxyPc\Documents\Github MAIN\Building-Website\Building-Website\Admin-Backend\BuildingAdmin.Service\obj\Debug\netcoreapp3.1\BuildingAdmin.Service.csproj.CoreCompileInputs.cache
+C:\Users\NovaProxyPc\Documents\Github MAIN\Building-Website\Building-Website\Admin-Backend\BuildingAdmin.Service\obj\Debug\netcoreapp3.1\BuildingAdmin.Service.AssemblyInfoInputs.cache
+C:\Users\NovaProxyPc\Documents\Github MAIN\Building-Website\Building-Website\Admin-Backend\BuildingAdmin.Service\obj\Debug\netcoreapp3.1\BuildingAdmin.Service.AssemblyInfo.cs
+C:\Users\NovaProxyPc\Documents\Github MAIN\Building-Website\Building-Website\Admin-Backend\BuildingAdmin.Service\obj\Debug\netcoreapp3.1\BuildingAdmin.Service.csproj.CopyComplete
+C:\Users\NovaProxyPc\Documents\Github MAIN\Building-Website\Building-Website\Admin-Backend\BuildingAdmin.Service\obj\Debug\netcoreapp3.1\BuildingAdmin.Service.dll
+C:\Users\NovaProxyPc\Documents\Github MAIN\Building-Website\Building-Website\Admin-Backend\BuildingAdmin.Service\obj\Debug\netcoreapp3.1\BuildingAdmin.Service.pdb
+C:\Users\NovaProxyPc\Documents\Github MAIN\Building-Website\Building-Website\Admin-Backend\BuildingAdmin.Service\obj\Debug\netcoreapp3.1\BuildingAdmin.Service.genruntimeconfig.cache

@@ -13,9 +13,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Domain\" />
     <Folder Include="Shared\" />
-    <Folder Include="Service\" />
   </ItemGroup>
 
   <ItemGroup>

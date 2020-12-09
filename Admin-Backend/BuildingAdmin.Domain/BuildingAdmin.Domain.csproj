@@ -13,10 +13,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Repository\" />
-  </ItemGroup>
-
-  <ItemGroup>
     <ProjectReference Include="..\BuildingAdmin.Interface\BuildingAdmin.Interface.csproj" />
     <ProjectReference Include="..\BuildingAdmin.Shared\BuildingAdmin.Shared.csproj" />
   </ItemGroup>

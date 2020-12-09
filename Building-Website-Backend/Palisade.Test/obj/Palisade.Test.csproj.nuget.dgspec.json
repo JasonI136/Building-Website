@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\NovaProxyPc\\Documents\\Github 2\\Building-Website\\Building-Website\\Building-Website-Backend\\Palisade.Test\\Palisade.Test.csproj": {}
+    "C:\\Users\\NovaProxyPc\\Documents\\Github MAIN\\Building-Website\\Building-Website\\Building-Website-Backend\\Palisade.Test\\Palisade.Test.csproj": {}
   },
   "projects": {
-    "C:\\Users\\NovaProxyPc\\Documents\\Github 2\\Building-Website\\Building-Website\\Building-Website-Backend\\Palisade.Test\\Palisade.Test.csproj": {
+    "C:\\Users\\NovaProxyPc\\Documents\\Github MAIN\\Building-Website\\Building-Website\\Building-Website-Backend\\Palisade.Test\\Palisade.Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\NovaProxyPc\\Documents\\Github 2\\Building-Website\\Building-Website\\Building-Website-Backend\\Palisade.Test\\Palisade.Test.csproj",
+        "projectUniqueName": "C:\\Users\\NovaProxyPc\\Documents\\Github MAIN\\Building-Website\\Building-Website\\Building-Website-Backend\\Palisade.Test\\Palisade.Test.csproj",
         "projectName": "Palisade.Test",
-        "projectPath": "C:\\Users\\NovaProxyPc\\Documents\\Github 2\\Building-Website\\Building-Website\\Building-Website-Backend\\Palisade.Test\\Palisade.Test.csproj",
+        "projectPath": "C:\\Users\\NovaProxyPc\\Documents\\Github MAIN\\Building-Website\\Building-Website\\Building-Website-Backend\\Palisade.Test\\Palisade.Test.csproj",
         "packagesPath": "C:\\Users\\NovaProxyPc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\NovaProxyPc\\Documents\\Github 2\\Building-Website\\Building-Website\\Building-Website-Backend\\Palisade.Test\\obj\\",
+        "outputPath": "C:\\Users\\NovaProxyPc\\Documents\\Github MAIN\\Building-Website\\Building-Website\\Building-Website-Backend\\Palisade.Test\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

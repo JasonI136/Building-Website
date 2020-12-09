@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "C4oDf0BqH81F7UPc+VsB1I0eWcv52+Sb251lj3m9G3hDHEwKtsinDfKu6bemdmKDZ+7sz6KbYhSsvx9iM+7Uew==",
+  "dgSpecHash": "iEASCJFIfrDfDSy4XvtnWaXIi/NwQfsgF/d36sJ+DMiV821SLA8l+53B4B4dC+Duz/z+yPgAKWrIEd0re/mboA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\NovaProxyPc\\source\\repos\\AdminBuildingBackend\\BuildingAdmin.API\\BuildingAdmin.API.csproj",
+  "projectFilePath": "C:\\Users\\NovaProxyPc\\Documents\\Github MAIN\\Building-Website\\Building-Website\\Admin-Backend\\BuildingAdmin.API\\BuildingAdmin.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\NovaProxyPc\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\NovaProxyPc\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

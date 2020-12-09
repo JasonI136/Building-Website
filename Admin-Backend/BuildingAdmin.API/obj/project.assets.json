@@ -5855,11 +5855,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\NovaProxyPc\\source\\repos\\AdminBuildingBackend\\BuildingAdmin.API\\BuildingAdmin.API.csproj",
+      "projectUniqueName": "C:\\Users\\NovaProxyPc\\Documents\\Github MAIN\\Building-Website\\Building-Website\\Admin-Backend\\BuildingAdmin.API\\BuildingAdmin.API.csproj",
       "projectName": "BuildingAdmin.API",
-      "projectPath": "C:\\Users\\NovaProxyPc\\source\\repos\\AdminBuildingBackend\\BuildingAdmin.API\\BuildingAdmin.API.csproj",
+      "projectPath": "C:\\Users\\NovaProxyPc\\Documents\\Github MAIN\\Building-Website\\Building-Website\\Admin-Backend\\BuildingAdmin.API\\BuildingAdmin.API.csproj",
       "packagesPath": "C:\\Users\\NovaProxyPc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\NovaProxyPc\\source\\repos\\AdminBuildingBackend\\BuildingAdmin.API\\obj\\",
+      "outputPath": "C:\\Users\\NovaProxyPc\\Documents\\Github MAIN\\Building-Website\\Building-Website\\Admin-Backend\\BuildingAdmin.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -5880,20 +5880,20 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\NovaProxyPc\\source\\repos\\AdminBuildingBackend\\BuildingAdmin.Domain\\BuildingAdmin.Domain.csproj": {
-              "projectPath": "C:\\Users\\NovaProxyPc\\source\\repos\\AdminBuildingBackend\\BuildingAdmin.Domain\\BuildingAdmin.Domain.csproj"
+            "C:\\Users\\NovaProxyPc\\Documents\\Github MAIN\\Building-Website\\Building-Website\\Admin-Backend\\BuildingAdmin.Domain\\BuildingAdmin.Domain.csproj": {
+              "projectPath": "C:\\Users\\NovaProxyPc\\Documents\\Github MAIN\\Building-Website\\Building-Website\\Admin-Backend\\BuildingAdmin.Domain\\BuildingAdmin.Domain.csproj"
             },
-            "C:\\Users\\NovaProxyPc\\source\\repos\\AdminBuildingBackend\\BuildingAdmin.Interface\\BuildingAdmin.Interface.csproj": {
-              "projectPath": "C:\\Users\\NovaProxyPc\\source\\repos\\AdminBuildingBackend\\BuildingAdmin.Interface\\BuildingAdmin.Interface.csproj"
+            "C:\\Users\\NovaProxyPc\\Documents\\Github MAIN\\Building-Website\\Building-Website\\Admin-Backend\\BuildingAdmin.Interface\\BuildingAdmin.Interface.csproj": {
+              "projectPath": "C:\\Users\\NovaProxyPc\\Documents\\Github MAIN\\Building-Website\\Building-Website\\Admin-Backend\\BuildingAdmin.Interface\\BuildingAdmin.Interface.csproj"
             },
-            "C:\\Users\\NovaProxyPc\\source\\repos\\AdminBuildingBackend\\BuildingAdmin.Service\\BuildingAdmin.Service.csproj": {
-              "projectPath": "C:\\Users\\NovaProxyPc\\source\\repos\\AdminBuildingBackend\\BuildingAdmin.Service\\BuildingAdmin.Service.csproj"
+            "C:\\Users\\NovaProxyPc\\Documents\\Github MAIN\\Building-Website\\Building-Website\\Admin-Backend\\BuildingAdmin.Service\\BuildingAdmin.Service.csproj": {
+              "projectPath": "C:\\Users\\NovaProxyPc\\Documents\\Github MAIN\\Building-Website\\Building-Website\\Admin-Backend\\BuildingAdmin.Service\\BuildingAdmin.Service.csproj"
             },
-            "C:\\Users\\NovaProxyPc\\source\\repos\\AdminBuildingBackend\\BuildingAdmin.Shared\\BuildingAdmin.Shared.csproj": {
-              "projectPath": "C:\\Users\\NovaProxyPc\\source\\repos\\AdminBuildingBackend\\BuildingAdmin.Shared\\BuildingAdmin.Shared.csproj"
+            "C:\\Users\\NovaProxyPc\\Documents\\Github MAIN\\Building-Website\\Building-Website\\Admin-Backend\\BuildingAdmin.Shared\\BuildingAdmin.Shared.csproj": {
+              "projectPath": "C:\\Users\\NovaProxyPc\\Documents\\Github MAIN\\Building-Website\\Building-Website\\Admin-Backend\\BuildingAdmin.Shared\\BuildingAdmin.Shared.csproj"
             },
-            "C:\\Users\\NovaProxyPc\\source\\repos\\AdminBuildingBackend\\BuildingAdmin.Test\\BuildingAdmin.Test.csproj": {
-              "projectPath": "C:\\Users\\NovaProxyPc\\source\\repos\\AdminBuildingBackend\\BuildingAdmin.Test\\BuildingAdmin.Test.csproj"
+            "C:\\Users\\NovaProxyPc\\Documents\\Github MAIN\\Building-Website\\Building-Website\\Admin-Backend\\BuildingAdmin.Test\\BuildingAdmin.Test.csproj": {
+              "projectPath": "C:\\Users\\NovaProxyPc\\Documents\\Github MAIN\\Building-Website\\Building-Website\\Admin-Backend\\BuildingAdmin.Test\\BuildingAdmin.Test.csproj"
             }
           }
         }

@@ -6160,11 +6160,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\NovaProxyPc\\Documents\\Github 2\\Building-Website\\Building-Website\\Building-Website-Backend\\Palisade.API\\Palisade.API.csproj",
+      "projectUniqueName": "C:\\Users\\NovaProxyPc\\Documents\\Github MAIN\\Building-Website\\Building-Website\\Building-Website-Backend\\Palisade.API\\Palisade.API.csproj",
       "projectName": "Palisade.API",
-      "projectPath": "C:\\Users\\NovaProxyPc\\Documents\\Github 2\\Building-Website\\Building-Website\\Building-Website-Backend\\Palisade.API\\Palisade.API.csproj",
+      "projectPath": "C:\\Users\\NovaProxyPc\\Documents\\Github MAIN\\Building-Website\\Building-Website\\Building-Website-Backend\\Palisade.API\\Palisade.API.csproj",
       "packagesPath": "C:\\Users\\NovaProxyPc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\NovaProxyPc\\Documents\\Github 2\\Building-Website\\Building-Website\\Building-Website-Backend\\Palisade.API\\obj\\",
+      "outputPath": "C:\\Users\\NovaProxyPc\\Documents\\Github MAIN\\Building-Website\\Building-Website\\Building-Website-Backend\\Palisade.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -6185,17 +6185,17 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\NovaProxyPc\\Documents\\Github 2\\Building-Website\\Building-Website\\Building-Website-Backend\\Palisade.Domain\\Palisade.Domain.csproj": {
-              "projectPath": "C:\\Users\\NovaProxyPc\\Documents\\Github 2\\Building-Website\\Building-Website\\Building-Website-Backend\\Palisade.Domain\\Palisade.Domain.csproj"
+            "C:\\Users\\NovaProxyPc\\Documents\\Github MAIN\\Building-Website\\Building-Website\\Building-Website-Backend\\Palisade.Domain\\Palisade.Domain.csproj": {
+              "projectPath": "C:\\Users\\NovaProxyPc\\Documents\\Github MAIN\\Building-Website\\Building-Website\\Building-Website-Backend\\Palisade.Domain\\Palisade.Domain.csproj"
             },
-            "C:\\Users\\NovaProxyPc\\Documents\\Github 2\\Building-Website\\Building-Website\\Building-Website-Backend\\Palisade.Interface\\Palisade.Interface.csproj": {
-              "projectPath": "C:\\Users\\NovaProxyPc\\Documents\\Github 2\\Building-Website\\Building-Website\\Building-Website-Backend\\Palisade.Interface\\Palisade.Interface.csproj"
+            "C:\\Users\\NovaProxyPc\\Documents\\Github MAIN\\Building-Website\\Building-Website\\Building-Website-Backend\\Palisade.Interface\\Palisade.Interface.csproj": {
+              "projectPath": "C:\\Users\\NovaProxyPc\\Documents\\Github MAIN\\Building-Website\\Building-Website\\Building-Website-Backend\\Palisade.Interface\\Palisade.Interface.csproj"
             },
-            "C:\\Users\\NovaProxyPc\\Documents\\Github 2\\Building-Website\\Building-Website\\Building-Website-Backend\\Palisade.Service\\Palisade.Service.csproj": {
-              "projectPath": "C:\\Users\\NovaProxyPc\\Documents\\Github 2\\Building-Website\\Building-Website\\Building-Website-Backend\\Palisade.Service\\Palisade.Service.csproj"
+            "C:\\Users\\NovaProxyPc\\Documents\\Github MAIN\\Building-Website\\Building-Website\\Building-Website-Backend\\Palisade.Service\\Palisade.Service.csproj": {
+              "projectPath": "C:\\Users\\NovaProxyPc\\Documents\\Github MAIN\\Building-Website\\Building-Website\\Building-Website-Backend\\Palisade.Service\\Palisade.Service.csproj"
             },
-            "C:\\Users\\NovaProxyPc\\Documents\\Github 2\\Building-Website\\Building-Website\\Building-Website-Backend\\Palisade.Shared\\Palisade.Shared.csproj": {
-              "projectPath": "C:\\Users\\NovaProxyPc\\Documents\\Github 2\\Building-Website\\Building-Website\\Building-Website-Backend\\Palisade.Shared\\Palisade.Shared.csproj"
+            "C:\\Users\\NovaProxyPc\\Documents\\Github MAIN\\Building-Website\\Building-Website\\Building-Website-Backend\\Palisade.Shared\\Palisade.Shared.csproj": {
+              "projectPath": "C:\\Users\\NovaProxyPc\\Documents\\Github MAIN\\Building-Website\\Building-Website\\Building-Website-Backend\\Palisade.Shared\\Palisade.Shared.csproj"
             }
           }
         }

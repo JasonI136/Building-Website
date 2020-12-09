@@ -14,9 +14,7 @@
 
   <ItemGroup>
     <Folder Include="Common\" />
-    <Folder Include="DTO\" />
     <Folder Include="Interface\" />
-    <Folder Include="Helper\" />
   </ItemGroup>
 
 </Project>

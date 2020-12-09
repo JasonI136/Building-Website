@@ -2,6 +2,12 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using BuildingAdmin.Domain.Entity;
+using BuildingAdmin.Domain.Repository;
+using BuildingAdmin.Interface.Domain;
+using BuildingAdmin.Interface.Service;
+using BuildingAdmin.Service;
+using BuildingAdmin.Shared.Helper;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -15,6 +21,7 @@ namespace BuildingAdmin.API
 {
     public class Startup
     {
+        readonly string adminSpecificOrigins = "_adminSpecificOrigins";
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
@@ -25,7 +32,23 @@ namespace BuildingAdmin.API
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            services.AddCors(options =>
+            {
+                options.AddPolicy(name: adminSpecificOrigins,
+                                  builder =>
+                                  {
+                                      builder.WithOrigins("http://localhost:4200")
+                                                          .AllowAnyHeader()
+                                                          .AllowAnyMethod(); ;
+                                  });
+            });
             services.AddControllers();
+            services.AddDbContext<PalisadeMirandaContext>();
+
+            services.AddTransient<IRepository, Repository>();
+            services.AddTransient<IBuildingAdminService, BuildingAdminService>();
+
+            BuildingWebsiteConfiguration.Instance.Configuration = Configuration;
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

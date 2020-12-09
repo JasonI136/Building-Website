@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "buildingAdmin"
+    }
+  },
+  "defaultProject": "buildingAdmin",
+  "cli": {
+    "analytics": "6bcedae7-0a44-46bf-a5a8-69f40867c5f8"
+  }
 }
