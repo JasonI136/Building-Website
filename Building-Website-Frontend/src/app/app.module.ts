@@ -13,6 +13,7 @@ import { AboutUsComponent } from './components/about-us/about-us.component';
 import { FormsModule, ReactiveFormsModule  } from '@angular/forms';
 import { RouterModule } from '@angular/router';
 import { HttpClientModule } from '@angular/common/http';
+import { AddBuildingsComponent } from './components/add-buildings/add-buildings.component';
 
 @NgModule({
   declarations: [
@@ -23,7 +24,7 @@ import { HttpClientModule } from '@angular/common/http';
     ContactUsComponent,
     SignInComponent,
     RegistrationComponent,
-    AboutUsComponent
+    AboutUsComponent,
   ],
   imports: [
     

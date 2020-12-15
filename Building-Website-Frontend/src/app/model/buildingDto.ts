@@ -14,5 +14,5 @@ export class buildingDto {
     state: string;
     city: string;
     postcode: string;
-   
+    isSuccess: boolean;
 }
